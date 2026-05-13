@@ -1,0 +1,15 @@
+# Ignore sensitive configuration files
+config.json.txt
+.env
+*.env
+
+# Ignore node modules
+node_modules/
+
+# Ignore logs
+*.log
+logs/
+
+# Ignore OS files
+.DS_Store
+Thumbs.db
